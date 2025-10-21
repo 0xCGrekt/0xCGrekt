@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3a8296,100,091519&text=Hi,%20I%27m%20Chandra%20Gumilang&fontAlign=50&textBg=false&fontSize=50&animation=twinkling&section=header&desc=On%20my%20journey%20to%20becoming%20a%20Full%20Stack%20Developer&descAlign=50&descAlignY=95&fontAlignY=40&fontColor=61DAFB" alt="Banner" width="1010"/>
-</div>
+</div><br>
 
 I'm **Chandra Gumilang**, an aspiring **Full Stack Developer** currently on a journey to master both **frontend** and **backend** development.  
 I’m deeply fascinated by how the web connects everything and how technologies like **Web3** and **blockchain** are shaping its future.  
