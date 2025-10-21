@@ -12,12 +12,12 @@ Driven by curiosity and a love for learning, I aim to build applications that ar
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xCGrekt&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xCGrekt&layout=compact&langs_count=10&theme=react&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xCGrekt&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xCGrekt&layout=compact&langs_count=10&theme=react&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img height="319em" src="https://github-readme-activity-graph.vercel.app/graph?username=0xCGrekt&theme=react&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xCGrekt&theme=react&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
