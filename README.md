@@ -12,8 +12,8 @@ Driven by curiosity and a love for learning, I aim to build applications that ar
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="167em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xCGdev&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="167em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xCGdev&layout=compact&langs_count=10&theme=react&hide_border=true"/>
+  <img height="166em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xCGdev&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="166em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xCGdev&layout=compact&langs_count=10&theme=react&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -31,6 +31,8 @@ Driven by curiosity and a love for learning, I aim to build applications that ar
 | Intro to Software Engineering | RevoU | Oct 2025 | - | CCSE 131025-01-1-00010 | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/RevoU/Intro%20to%20Software%20Engineering/SECC_CCSE%20131025-01-1-00010.pdf) |
 | HTML Fundamentals | Coddy | Oct 2025 | - | CY1RWx-html-mQsrS3 | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coddy/HTML%20Fundamentals/CY1RWx-html-mQsrS3.pdf) |
 | HTML | Mimo | Nov 2025 | - | - | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Mimo/HTML/mimo-certificates-194.pdf) |
+| HTML styling with CSS | Coddy | Nov 2025 | - | CY1RWx-html-P457Ik | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coddy/HTML%20styling%20with%20CSS/CY1RWx-html-P457Ik.pdf)
+| Introduction to HTML | Coursera | Nov 2025 | - | 1BGL1MWFBM9U | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coursera/Introduction%20to%20HTML/Coursera%201BGL1MWFBM9U.pdf) |
 
 </div>
 
