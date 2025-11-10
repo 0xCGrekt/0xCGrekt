@@ -9,7 +9,7 @@ Driven by curiosity and a love for learning, I aim to build applications that ar
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="166em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xCGdev&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -22,21 +22,25 @@ Driven by curiosity and a love for learning, I aim to build applications that ar
 
 ---
 
-### 🎓 My Learning Certificates
+## 🎓 My Learning Certificates
 
-<div align="center">
-
+### 💻 Web Development Certificates
 | Course | Organization | Issue date | Expiration date | Credential ID | Certificate |
-|:-------:|:-------------:|:-----------:|:---------------:|:--------------:|:------------:|
-| Intro to Software Engineering | RevoU | Oct 2025 | - | CCSE 131025-01-1-00010 | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/RevoU/Intro%20to%20Software%20Engineering/SECC_CCSE%20131025-01-1-00010.pdf) |
+|:------:|:------------:|:----------:|:---------------:|:-------------:|:-----------:|
+| Intro to Software Engineering| RevoU | Oct 2025 | - | CCSE 131025-01-1-00010 | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/RevoU/Intro%20to%20Software%20Engineering/SECC_CCSE%20131025-01-1-00010.pdf) |
 | HTML Fundamentals | Coddy | Oct 2025 | - | CY1RWx-html-mQsrS3 | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coddy/HTML%20Fundamentals/CY1RWx-html-mQsrS3.pdf) |
 | HTML | Mimo | Nov 2025 | - | - | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Mimo/HTML/mimo-certificates-194.pdf) |
-| HTML styling with CSS | Coddy | Nov 2025 | - | CY1RWx-html-P457Ik | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coddy/HTML%20styling%20with%20CSS/CY1RWx-html-P457Ik.pdf)
+| HTML styling with CSS | Coddy | Nov 2025 | - | CY1RWx-html-P457Ik | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coddy/HTML%20styling%20with%20CSS/CY1RWx-html-P457Ik.pdf) |
 | Introduction to HTML | Coursera | Nov 2025 | - | 1BGL1MWFBM9U | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coursera/Introduction%20to%20HTML/Coursera%201BGL1MWFBM9U.pdf) |
-| Word Forms and Simple Present Tense | University of California, Irvine | Nov 2025 | - | GVHZJRUWXZI7 | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coursera/Word%20Forms%20and%20Simple%20Present%20Tense/Coursera%20GVHZJRUWXZI7.pdf) |
+| HTML CSS Mastery | Coddy | Nov 2025 | - | CY1RWx-html-MCa2tZ | [view PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coddy/HTML%20CSS%20Mastery/CY1RWx-html-MCa2tZ.pdf) |
 
-</div>
+---
 
+### 🗣️ English Language Certificates
+| Course | Organization | Issue date | Expiration date | Credential ID | Certificate |
+|:------:|:------------:|:----------:|:---------------:|:-------------:|:-----------:|
+| Word Forms and Simple Present Tense | University of California, Irvine | Nov 2025 | - | GVHZJRUWXZI7 | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coursera/University%20of%20California%2C%20Irvine/Learn%20English%20Beginning%20Grammar/Word%20Forms%20and%20Simple%20Present%20Tense/Coursera%20GVHZJRUWXZI7.pdf) |
+| Questions, Present Progressive and Future Tenses | University of California, Irvine | Nov 2025 | - | 9NI01KCVO23V | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coursera/University%20of%20California%2C%20Irvine/Learn%20English%20Beginning%20Grammar/Questions%2C%20Present%20Progressive%20and%20Future%20Tenses/Coursera%209NI01KCVO23V.pdf) |
 
 ---
 
