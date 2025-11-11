@@ -41,6 +41,7 @@ Driven by curiosity and a love for learning, I aim to build applications that ar
 |:------:|:------------:|:----------:|:---------------:|:-------------:|:-----------:|
 | Word Forms and Simple Present Tense | University of California, Irvine | Nov 2025 | - | GVHZJRUWXZI7 | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coursera/University%20of%20California%2C%20Irvine/Learn%20English%20Beginning%20Grammar/Word%20Forms%20and%20Simple%20Present%20Tense/Coursera%20GVHZJRUWXZI7.pdf) |
 | Questions, Present Progressive and Future Tenses | University of California, Irvine | Nov 2025 | - | 9NI01KCVO23V | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coursera/University%20of%20California%2C%20Irvine/Learn%20English%20Beginning%20Grammar/Questions%2C%20Present%20Progressive%20and%20Future%20Tenses/Coursera%209NI01KCVO23V.pdf) |
+| Simple Past Tense | University of California, Irvine | Nov 2025 | - | Y30DIMFS4C92 | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coursera/University%20of%20California%2C%20Irvine/Learn%20English%20Beginning%20Grammar/Simple%20Past%20Tense/Coursera%20Y30DIMFS4C92.pdf) |
 
 ---
 
