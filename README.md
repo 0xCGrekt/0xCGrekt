@@ -33,6 +33,7 @@ Driven by curiosity and a love for learning, I aim to build applications that ar
 | HTML styling with CSS | Coddy | Nov 2025 | - | CY1RWx-html-P457Ik | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coddy/HTML%20styling%20with%20CSS/CY1RWx-html-P457Ik.pdf) |
 | Introduction to HTML | Coursera | Nov 2025 | - | 1BGL1MWFBM9U | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coursera/Introduction%20to%20HTML/Coursera%201BGL1MWFBM9U.pdf) |
 | HTML CSS Mastery | Coddy | Nov 2025 | - | CY1RWx-html-MCa2tZ | [view PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coddy/HTML%20CSS%20Mastery/CY1RWx-html-MCa2tZ.pdf) |
+| HTML Practical Frontend | Coddy | Nov 2025 | - | CY1RWx-html-2sLKgb | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coddy/4.%20HTML%20Practical%20Frontend/CY1RWx-html-2sLKgb.pdf) |
 
 ---
 
